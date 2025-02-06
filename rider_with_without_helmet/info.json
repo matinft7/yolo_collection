@@ -1,0 +1,8 @@
+{
+    "package" : "ultralytics",
+    "datasets": {
+        "kaggle" : "https://www.kaggle.com/datasets/aneesarom/rider-with-helmet-without-helmet-number-plate"
+    },
+    "yolo" : "yolov8n",
+    "my_own_version" : "0.0.1"
+}
